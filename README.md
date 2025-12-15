@@ -182,17 +182,6 @@ Tâches essentielles :
   
 - Interface dynamique et intuitive
 
-##  Éléments visuels
-
-Vagues sonores
-
-Écouteurs, vinyles, cartes musicales
-
-Icônes minimalistes
-
-Badges holographiques
-
-Interface façon “feed” avec cartes d’artistes
 
 #  Maquette / Scénarimage
 
@@ -224,15 +213,15 @@ Concept original et unique sur le marché
 
 Modèle économique viable :
 
-Publicités
+- Publicités
 
-Partenariats
+- Partenariats
 
-Boosts premium
+- Boosts premium
 
-Coût de développement raisonnable
+- Coût de développement raisonnable
 
-Potentiel viral énorme grâce aux défis quotidiens
+- Potentiel viral énorme grâce aux défis quotidiens
 
-Plateforme qui soutient l’industrie indépendante
+- Plateforme qui soutient l’industrie indépendante
 
