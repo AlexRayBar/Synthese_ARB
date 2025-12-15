@@ -172,7 +172,7 @@ Tâches essentielles :
 - Mises à jour et nouvelles fonctionnalités
 
 #  Moodboard (Description visuelle)
-![alt text](moodboard_domaine.jpg)
+![Moodboard](moodboard_domaine.jpg)
 
 ##  Style global
 
@@ -196,8 +196,8 @@ Interface façon “feed” avec cartes d’artistes
 
 #  Maquette / Scénarimage
 
-![alt text](untitled-design-12.png)
-![alt text](image.jpg)
+![Design iPhone 1](photo_1.png)
+![Design iPohne 2](photo_2.png)
 
 #  Conclusion
 ##  Ce qui rend le projet innovant
