@@ -196,7 +196,8 @@ Interface façon “feed” avec cartes d’artistes
 
 #  Maquette / Scénarimage
 
-
+![alt text](untitled-design-12.png)
+![alt text](image.jpg)
 
 #  Conclusion
 ##  Ce qui rend le projet innovant
