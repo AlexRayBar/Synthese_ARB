@@ -172,8 +172,7 @@ Tâches essentielles :
 - Mises à jour et nouvelles fonctionnalités
 
 #  Moodboard (Description visuelle)
-
-(À recréer dans Photoshop)
+![alt text](moodboard_domaine.jpg)
 
 ##  Style global
 
