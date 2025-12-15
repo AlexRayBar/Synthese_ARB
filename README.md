@@ -177,13 +177,11 @@ Tâches essentielles :
 
 ##  Style global
 
-Moderne
-
-Couleurs néon : violet, bleu électrique, rose
-
-Ambiance urbaine et nocturne
-
-Interface dynamique et intuitive
+- Couleurs: Vibrante et contrastée. Arrière-plan adaptatif basé sur les couleurs de la pochette de l'album.
+  
+- Ludique, vibrant et social
+  
+- Interface dynamique et intuitive
 
 ##  Éléments visuels
 
@@ -199,50 +197,7 @@ Interface façon “feed” avec cartes d’artistes
 
 #  Maquette / Scénarimage
 
-(À reproduire en Photoshop ou Figma — voici la description visuelle à recréer)
 
-##  Écrans à présenter :
-1. Écran d’accueil
-
-“Commencer la découverte”
-
-Défi du jour
-
-Points cumulés
-
-2. Fil de découverte
-
-Grandes cartes d’artistes
-
-Bouton “Écouter extrait”
-
-Swipe droite/gauche pour découvrir
-
-3. Page des défis
-
-Liste des défis du jour
-
-Barre de progression
-
-Points gagnés
-
-4. Profil utilisateur
-
-Avatar
-
-Badges
-
-Achievements
-
-Stats (artistes découverts, streaks, etc.)
-
-5. Leaderboard
-
-Classement hebdomadaire
-
-Scores des utilisateurs
-
-Classement local/global
 
 #  Conclusion
 ##  Ce qui rend le projet innovant
