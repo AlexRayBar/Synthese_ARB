@@ -1,6 +1,6 @@
 # Phrase choc
 
-Transforme la découverte musicale en un jeu addictif où chaque écoute te rapproche d’une récompense.
+Et si découvrir de la musique devenait un jeu ?
 
 #  Analyse des besoins
 ##  Public cible
